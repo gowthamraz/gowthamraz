@@ -1,4 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Gowthamraj
+
+🚀 Beginner in **Python, Data Science, and Cloud Computing**  
+💡 Currently learning **DSA and building projects**  
+🎯 Goal: Become a **Data Analyst / Cloud Engineer**
+
+---
+
+## 🛠 Skills
+- Python (Beginner → Intermediate)
+- Data Science (Basics)
+- SQL, Git, GitHub
+
+---
+
+## 📂 Featured Projects
+- 📝 [To-Do App (Python Console)](https://github.com/your-username/todo-app)  
+  Add, edit, delete, and mark tasks as done. JSON storage included.
+
+*(More projects coming soon!)*
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-link)  
+- GitHub: [your-username](https://github.com/your-username)  
+
 
 <!--
 **gowthamraz/gowthamraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
