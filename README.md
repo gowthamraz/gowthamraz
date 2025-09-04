@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gowthamraj
 
-🚀 Beginner in **Python, Data Science, and Cloud Computing**  
+🚀 Beginner in **Python, Data Science**  
 💡 Currently learning **DSA and building projects**  
-🎯 Goal: Become a **Data Analyst / Cloud Engineer**
+🎯 Goal: Become a **Data Analyst / Software Engineer**
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 📫 Connect with Me
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-link)  
-- GitHub: [your-username](https://github.com/your-username)  
+- GitHub: [your-username](https://github.com/gowthamraz)  
 
 
 <!--
