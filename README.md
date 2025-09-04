@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Featured Projects
-- 📝 [To-Do App (Python Console)](https://github.com/your-username/todo-app)  
+- 📝 [To-Do App (Python Console)](https://github.com/gowthamraz/todo-app.git)  
   Add, edit, delete, and mark tasks as done. JSON storage included.
 
 *(More projects coming soon!)*
